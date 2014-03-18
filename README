@@ -1,0 +1,19 @@
+1)Bike can turn left by 'a' key and right by 'd' key
+2)One can accelerate bike by pressing up key and apply brakes by down key
+3)Right and Left key tilt the bike and turn it left and right when it is in speed.
+4)Views can be switched by pressing the numerical keys.
+5)Press 'ESC' key to exit game.
+6)Execute by typing make and then ./graphics.
+7) Terrain on which bike can move.
+8) Bike has constant acceleration on pressing up key and deaccelarates when key is left.(Physics)
+9) Bike can tilt(by max 45 degree) and will be balanced by centrifugal force.(Physics)
+10) Rotating tyres.
+11) Score is displayed.
+12) Bike can climb up the mounts.
+13) There are fossils distributed accross the terrain.
+14) Five camera views:
+    a)Driver View
+    b)Wheel View
+    c)OverHead View
+    d)Side View
+    e)Follow Cam
